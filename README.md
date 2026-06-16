@@ -1,36 +1,42 @@
 # Electronic-Circuits--Hartley-Oscillator
+
 ## AIM:
 To simulate a Hartley Oscillator and to obtain the output.
+
 ## APPARATUS REQUIRED:
 PC with LT Spice software
+
 ## CIRCUIT DIAGRAM:
-<img width="973" height="834" alt="image" src="https://github.com/user-attachments/assets/2e9d12f9-1e5e-4d31-b791-580aebda253d" />
+<img width="1165" height="984" alt="image" src="https://github.com/user-attachments/assets/5beab458-7f72-43e3-8c48-a1bade6010ad" />
 
 ## SIMULATION PROCEDURE:
-1. Open the LTspice software.
-2. File → New Schematic.
-3. Click the Component symbol to browse and select components.
-4. Click OK and place the component.
-5. Search for resistor from the component menu or tab icons.
-6. Place the resistors.
-7. Use Ctrl + R to rotate the components.
-8. Use the Wire symbol to connect the components as per the circuit diagram.
-9. Right-click each component to give the values.
-10. Use the Run button to run the simulation.
-11. Set the step time and click OK.
-12. Output dialog box will open.
-13. In the output dialog box, right-click and select Add Traces.
-14. Node voltages and current of each component will be displayed.
-15. Select the required node voltages (V(n001)) to get the waveforms.
-16. To get the voltage across a component, the trace should represent both nodes (example: V(n001,n002)).
+
+1.	Open the Ltspice software.<br>  
+2.	File  New Schemati.c<br> 
+3.	Click component symbol  to browse and select the components.<br> 
+4.	Find the diode or diodes from the component list and place them.<br> 
+5.	Click OK and place the component.<br> 	
+6.	Search for resistor from component menu or from the tab icons.<br> 
+7.	Place the resistors.<br> 
+8.	Search for capacitor from the component menu or from the tab icons.<br> 
+9.	Place the capacitors.<br> 
+10.	Use ctrl + R to rotate the components.<br> 
+11.	Use wire symbol  to connect the components as per the circuit diagram.<br> 
+12.	Right click each components to give the values.<br> 	
+13.	Use run button  to run the simulation.<br> 
+14.	Set the step time and click ok.<br> 
+15.	Output dialog box will open.<br> 
+16.	In the output dialog box right click and select add traces.<br> 
+17.	Node voltages and current of each components names will be displayed.<br> 
+18.	Select the required node voltages (V(n001)) to get the waveforms.<br> 
+19.	To get the voltage across a component the name of the trace should represent both the nodes. example V(n001,n002)).<br> 
 
 ## THEORITICAL CALCULATION:
-![WhatsApp Image 2025-11-22 at 19 13 42_939ed2b9](https://github.com/user-attachments/assets/fffd7875-13a9-4cf3-aa03-419c87bf847f)
+<img width="899" height="1599" alt="WhatsApp Image 2026-06-10 at 12 59 56" src="https://github.com/user-attachments/assets/0d614482-b8a4-46a1-95c7-a4eb2cdf8f74" />
 
 ## OUTPUTS:
-![WhatsApp Image 2025-11-29 at 11 06 31_267ef7dc](https://github.com/user-attachments/assets/11c09815-3cde-4769-bfd1-51685bc35b48)
-
+<img width="1919" height="1119" alt="image" src="https://github.com/user-attachments/assets/2f31a0aa-b1df-4c4d-84ad-87f8aa8e6559" />
 
 ## RESULT:
-![photo_2025-12-02_11-17-29](https://github.com/user-attachments/assets/296ac6da-0008-4fc9-b254-e2720b86e599)
+<img width="720" height="1600" alt="WhatsApp Image 2026-06-10 at 12 43 50" src="https://github.com/user-attachments/assets/d40c6c3d-32ae-4ebe-b8e3-86cbc31a5159" />
 
